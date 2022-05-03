@@ -12,7 +12,7 @@ int main()
     sort(n, n + col);
     for(int i = 0; i < col; i++){
         cout << n[i] << " ";
-    }
-
+    } 
+    
     return 0;
 }
