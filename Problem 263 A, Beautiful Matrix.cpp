@@ -16,6 +16,6 @@ int main()
         }
         location = abs(3 - rows) + abs(3 - col);
     }
-    cout << loc;
+    cout << location;
     return 0;
 }
